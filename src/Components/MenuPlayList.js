@@ -17,13 +17,12 @@ const MenuPlayList = () => {
 
                 {
                     PlayList && PlayList.map((list)=>(
-
-                    <div className="playList">
+                    <div className="playList" key={list.id}>
                         <i className='list'>
                             <BsMusicNoteList />
                         </i>
 
-                        <p>Sample Name</p>
+                        <p>{list.name}</p>
 
                         <i className='trash'>
                             <BsTrash/>
