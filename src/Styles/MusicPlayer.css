@@ -161,12 +161,14 @@
     .songImage {
         width: 100px;
         min-width: 100px;
+        /* display: none; */
     }
 
     .songAttributes .top .left i,
     .songAttributes .top .middle i,
     .songAttributes .top .right i {
-        margin: 0px 5px;
+        /* margin: 0px 5px; */
+        margin: 0px 18px;
     }
 
     .songAttributes .bottom {
@@ -174,6 +176,14 @@
     }
 
     .songAttributes .bottom .progresBar {
-        width: 65%;
+        /* width: 65%; */
+        width: 55%;
+        left: 0;
+        margin-left: 0;
+        margin-right: 40px;
+    }
+
+    .songAttributes .top .left i{
+        display: none;
     }
 }
