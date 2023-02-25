@@ -86,6 +86,96 @@ const Songs = [
       imgSrc:
         "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
     },
+    {
+      id: 11,
+      favourite: false,
+      songName: "Footbal Song",
+      artist: "Skira ",
+      song: "https://lillillliiililiil.ililllliliillilliliil.li/direct/V0cyeOqV5B/",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+      id: 12,
+      favourite: false,
+      songName: "Let me love you",
+      artist: "buccaneer-stain",
+      song: "https://il.ilill.li/force/q04Me5lWjp/",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+      id: 13,
+      favourite: false,
+      songName: "slow motion",
+      artist: "flourish-hip",
+      song: "https://lillillliiililiil.ililllliliillilliliil.li/direct/c3fS5BuOQN/",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+      id: 14,
+      favourite: false,
+      songName: "Waka Waka",
+      artist: "leather-unharme",
+      song: "https://lillillliiililiil.ililllliliillilliliil.li/direct/K3O14rzpw/",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+      id: 15,
+      favourite: false,
+      songName: "Waka Waka",
+      artist: "leather-unharme",
+      song: "https://lillillliiililiil.ililllliliillilliliil.li/direct/K3O14rzpw/",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+     id: 16,
+      favourite: false,
+      songName: "Ratan Rana",
+      artist: "love me like you do",
+      song: "https://lillillliiililiil.ililllliliillilliliil.li/direct/2lFXWhgCYh/",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+     id: 17,
+      favourite: false,
+      songName: "Ratan Rana",
+      artist: "Every thing i do",
+      song: "https://il.ilill.li/force/u7R0WFvum/",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+     id: 18,
+      favourite: false,
+      songName: "Ratan Rana",
+      artist: "My heart will go on",
+      song: "https://il.ilill.li/force/RiEGGugcRl/",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+     id: 19,
+      favourite: false,
+      songName: "Ratan Rana",
+      artist: "stereo love",
+      song: "https://il.ilill.li/force/p-S4ffwPB7/",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+     id: 20,
+      favourite: false,
+      songName: "Ratan Rana",
+      artist: "sorry",
+      song: "https://il.ilill.li/force/HOUlAPq_R/",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
   ];
   
   export { Songs };
