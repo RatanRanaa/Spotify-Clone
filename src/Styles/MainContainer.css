@@ -226,7 +226,7 @@
 }
 
 .songsContainer {
-    height: 220px;
+    height: 280px;
     overflow-y: scroll;
     overflow-x: hidden;
 }
@@ -380,5 +380,8 @@
     .songImage {
         width: 80px;
         min-width: 80px;
+    }
+    .songsContainer {
+        height: 430px;
     }
 }
