@@ -186,6 +186,56 @@ const Songs = [
       imgSrc:
         "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
     },
+    {
+     id: 21,
+      favourite: false,
+      songName: "Ratan Rana",
+      artist: "sorry",
+      // song: "https://il.ilill.li/force/HOUlAPq_R/",
+      song: "https://www.worldtau.in/files/download/id/3142",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+     id: 22,
+      favourite: false,
+      songName: "Ratan Rana",
+      artist: "sorry",
+      // song: "https://il.ilill.li/force/HOUlAPq_R/",
+      song: "https://www.worldtau.in/files/download/id/3141",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+     id: 23,
+      favourite: false,
+      songName: "Ratan Rana",
+      artist: "sorry",
+      // song: "https://il.ilill.li/force/HOUlAPq_R/",
+      song: "https://www.worldtau.in/files/download/id/3138",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+     id: 24,
+      favourite: false,
+      songName: "Ratan Rana",
+      artist: "sorry",
+      // song: "https://il.ilill.li/force/HOUlAPq_R/",
+      song: "https://www.worldtau.in/files/download/id/3133",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
+    {
+     id: 25,
+      favourite: false,
+      songName: "Ratan Rana",
+      artist: "sorry",
+      // song: "https://il.ilill.li/force/HOUlAPq_R/",
+      song: "https://www.worldtau.in/files/download/id/4202",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
   ];
   
   export { Songs };
