@@ -236,6 +236,16 @@ const Songs = [
       imgSrc:
         "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
     },
+    {
+     id: 26,
+      favourite: 21.22,
+      songName: "Ratan Rana",
+      artist: "21.22",
+      // song: "https://il.ilill.li/force/HOUlAPq_R/",
+      song: "https://hindi2.djpunjab.app/load/lm7QZ3GsNTcEfQ7EjfUsvA==/21.22.mp3",
+      imgSrc:
+        "https://avatars.githubusercontent.com/u/92669651?s=400&u=8985b626008b574845538b394d494a2c89f2f42a&v=4",
+    },
   ];
   
   export { Songs };
